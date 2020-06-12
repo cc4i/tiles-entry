@@ -1,5 +1,5 @@
 # Tiles Entry
-Application for release Tile.
+Application for release Tile and Hu.
 
 ## Publish process
 
