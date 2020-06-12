@@ -1,0 +1,9 @@
+tiles:
+  zhiyanliu:
+    - name: Sealed-Secret-With-Existing-EKS
+      decsription: Basic component to help build up safe GitOps based CI/CD capability.
+      tileRepo: https://github.com/zhiyanliu/tile-sealed-secret-with-existing-eks
+      versionTag: 0.1.0
+      author: AWS
+      email: liuzhiya@amazon.com
+
