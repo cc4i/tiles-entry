@@ -1,0 +1,14 @@
+hus:
+  cc4i:
+    - name: Containerized-Miroservice
+      decsription: |
+        1. Basic network definition in AWS
+        2. EKS cluster with stage and production environments
+        3. Pre-configured service mesh, tracing, logs, security components
+        4. End to end CI/CD pipeline with demo applications
+      tileRepo: https://github.com/cc4i/containerized-miroservice.git
+      versionTag: 0.0.1
+      author: aws-builder
+      email: aws-builder@amazon.com
+
+    

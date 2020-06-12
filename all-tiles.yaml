@@ -1,0 +1,12 @@
+tiles:
+  cc4i:
+    - name: Network0
+      decsription: |
+        1. Basic network definition in AWS
+        2. Resources include: VPC, Subnets(public, private, isolated), NAT, etc cross 2 AZ
+      tileRepo: https://github.com/cc4i/network0.git
+      versionTag: 0.0.1
+      author: aws-builder
+      email: aws-builder@amazon.com
+
+    

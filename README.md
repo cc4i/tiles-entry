@@ -7,8 +7,8 @@ Application for release Tile.
 
 ## Application for Tile 
 
-1. Fork the [repo](https://github.com/cc4i/tiles-entry.git).
+1. Fork this [repo](https://github.com/cc4i/tiles-entry.git).
 
-2. Add entry to [new-tile.yaml](./new-tile.yaml) for your Tile
+2. Drop your entry file to ['applications'](./applications) folder. The name of entry file should follow convetion : !!! GitHub_USER.yaml !!!
 
-3. Fire PR for further process.
+3. Fire a PR for further process, it'll be uploaded to Tiles' Repo automatically once get approved.
