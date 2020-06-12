@@ -1,13 +1,17 @@
 tiles:
   <git-user>:
     - name: 
-      decsription:
+      decsription: |
+        1. 
+        2.
       tileRepo:
       versionTag:
       author:
       email:
     - name: 
-      decsription:
+      decsription: |
+        1.
+        2.
       tileRepo:
       versionTag:
       author:
